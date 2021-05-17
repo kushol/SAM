@@ -15,3 +15,5 @@ attempted to solve the problems faced by YAGO by using a semi-automatic approach
 developed to overcome those problems, therefore already having the advantage of manual approach. The main goal of SAM is to obtain a 
 mapping in significantly less time and extend the knowledgebase with new concepts when needed. Experiments show that it is possible to 
 save almost 50% of time required by manual approaches by using the mapper SAM as a semi-automatic approach.
+
+![SAM](https://github.com/kushol/SAM/blob/main/A-snapshot-of-the-SAM-interface_W640.jpg)
