@@ -1,4 +1,4 @@
-# SAM
+# SAM: Semi-Automatic Mapping and Enrichment of Ontologies
 
 Due to the quality bottleneck, the most successful and widely employed ontologies were man made like WordNet, Cyc or OpenCyc, SUMO, 
 SNOMED and GeneOntology. SNOMED and GeneOntology are domain specific. These sources of knowledge have the advantage of highest quality 
@@ -19,7 +19,6 @@ save almost 50% of time required by manual approaches by using the mapper SAM as
 ![SAM](https://github.com/kushol/SAM/blob/main/A-snapshot-of-the-SAM-interface_W640.jpg)
 
 # Publication link
-SAM: A Tool for the Semi-Automatic Mapping and Enrichment of Ontologies. 
-https://link.springer.com/chapter/10.1007/978-3-642-33618-8_61
+[SAM: A Tool for the Semi-Automatic Mapping and Enrichment of Ontologies.](https://link.springer.com/chapter/10.1007/978-3-642-33618-8_61)
 
 
