@@ -16,4 +16,6 @@ developed to overcome those problems, therefore already having the advantage of 
 mapping in significantly less time and extend the knowledgebase with new concepts when needed. Experiments show that it is possible to 
 save almost 50% of time required by manual approaches by using the mapper SAM as a semi-automatic approach.
 
+Publication link: SAM: A Tool for the Semi-Automatic Mapping and Enrichment of Ontologies. [https://link.springer.com/chapter/10.1007/978-3-642-33618-8_61]
+
 ![SAM](https://github.com/kushol/SAM/blob/main/A-snapshot-of-the-SAM-interface_W640.jpg)
